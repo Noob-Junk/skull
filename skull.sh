@@ -8,13 +8,15 @@ trap 'printf "\n";stop' 2
 banner() {
 
 
-printf "\e[1;92m      _       \e[0m\e[1;77m   _ _     \e[0m\n"
-printf "\e[1;92m  ___| | ___  \e[0m\e[1;77m _| | |    \e[0m\n"
-printf "\e[1;92m / __| |/ / | \e[0m\e[1;77m| | | |    \e[0m\n"
-printf "\e[1;92m \__ \   <| |_\e[0m\e[1;77m| | | |    \e[0m\n"
-printf "\e[1;92m |___/_|\_\\__\e[0m\e[1;77m,_|_|_|    \e[0m\n"
-printf "\e[1;92m              \e[0m.                   \n"
-
+                                    
+printf "\e[1;92m   ####  #    # #    # #      #        \e[0m\n"     
+printf "\e[1;92m  #      #   #  #    # #      #        \e[0m\n"   
+printf "\e[1;92m   ####  ####   #    # #      #        \e[0m\n"     
+printf "\e[1;92m       # #  #   #    # #      #        \e[0m\n"    
+printf "\e[1;92m  #    # #   #  #    # #      #        \e[0m\n"   
+printf "\e[1;92m   ####  #    #  ####  ###### ######   \e[0m\n"
+printf "\e[1;92m                                         \n"
+                                    
 printf " \e[1;77m v1.2 code by Noob-Junk\e[0m \n"
 printf "\n"
 }
@@ -200,12 +202,13 @@ clear
 
 
 
-printf "\e[1;92m      _       \e[0m\e[1;77m   _ _     \e[0m\n"
-printf "\e[1;92m  ___| | ___  \e[0m\e[1;77m _| | |    \e[0m\n"
-printf "\e[1;92m / __| |/ / | \e[0m\e[1;77m| | | |    \e[0m\n"
-printf "\e[1;92m \__ \   <| |_\e[0m\e[1;77m| | | |    \e[0m\n"
-printf "\e[1;92m |___/_|\_\\__\e[0m\e[1;77m,_|_|_|    \e[0m\n"
-printf "\e[1;92m              \e[0m.                   \n"
+printf "\e[1;92m   ####  #    # #    # #      #        \e[0m\n"     
+printf "\e[1;92m  #      #   #  #    # #      #        \e[0m\n"   
+printf "\e[1;92m   ####  ####   #    # #      #        \e[0m\n"     
+printf "\e[1;92m       # #  #   #    # #      #        \e[0m\n"    
+printf "\e[1;92m  #    # #   #  #    # #      #        \e[0m\n"   
+printf "\e[1;92m   ####  #    #  ####  ###### ######   \e[0m\n"
+printf "\e[1;92m                                         \n"                                          
 
 printf " \e[1;77m v1.2 code by Noob-Junk\e[0m \n"
 printf "\n"
